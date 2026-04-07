@@ -1,1 +1,1 @@
-
+This repository contains the RTL implementation (Verilog/SystemVerilog) of a high-performance hardware accelerator designed for image processing tasks. The project focuses on offloading computationally intensive image filters from a CPU to dedicated hardware logic.
